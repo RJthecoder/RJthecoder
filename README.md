@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RJthecoder
+- 👋 Hi, I’m Ranjitsing 
 - 👀 I’m interested in Web development and Data analytics
-- 🌱 I’m currently learning Full Stack Developmeent and Data analytics
+- 🌱 Talk About Full Stack Web Developmeent and Data analytics
 - 💞️ I’m looking to collaborate on Full stack dev projects and data analytics project
 - 📫 How to reach me 
 - Gmail : jadhavranjitsingh561@gmail.com
